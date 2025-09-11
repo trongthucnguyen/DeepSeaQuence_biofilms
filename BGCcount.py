@@ -1,14 +1,14 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# === Step 1: Load data ===
-summary_df = pd.read_csv("MAG_summary.csv")  # genome_ID, Domain, Phylum, etc.
-bgc_df = pd.read_csv("BGC_class.csv")        # MAG, class, Phylum, etc.
+# Load data
+summary_df = pd.read_csv("MAG_summary.csv")  
+bgc_df = pd.read_csv("BGC_class.csv")        
 
-# === Step 2: Merge tables on MAG/genome_ID ===
+# Merge tables on MAG/genome_ID
 merged_df = bgc_df.merge(summary_df, left_on="MAG", right_on="genome_ID")
 
-# === Step 3: Count BGC classes per Phylum ===
+# Count BGC classes per Phylum
 class_counts = (
     merged_df.groupby(['Domain_x', 'Phylum_x', 'class'])
     .size()
@@ -16,20 +16,20 @@ class_counts = (
     .rename(columns={'Domain_x': 'Domain', 'Phylum_x': 'Phylum'})
 )
 
-# === Step 4: Count MAGs per Phylum ===
+# Count MAGs per Phylum
 mag_counts = summary_df.groupby(['Domain', 'Phylum'])['genome_ID'].nunique().reset_index(name='MAG_count')
 
-# === Step 5: Merge and normalize ===
+# Merge and normalize
 normalized_df = class_counts.merge(mag_counts, on=['Domain', 'Phylum'])
 normalized_df['normalized_count'] = normalized_df['BGC_count'] / normalized_df['MAG_count']
 
-# === Step 6: Get all BGC classes ===
+# Get all BGC classes
 all_classes = sorted(normalized_df['class'].unique())
 
-# === Step 7: Create a dictionary of MAG counts per phylum ===
+# Create a dictionary of MAG counts per phylum
 phylum_mag_counts = summary_df.groupby('Phylum')['genome_ID'].nunique().to_dict()
 
-# === Step 8: Plot function ===
+# Plot function 
 def plot_stacked_bar(df, title, filename, all_classes, mag_count_dict):
     pivot_df = df.pivot_table(index='Phylum', columns='class', values='normalized_count', fill_value=0)
 
@@ -73,7 +73,7 @@ def plot_stacked_bar(df, title, filename, all_classes, mag_count_dict):
     plt.savefig(filename, format='svg')
     plt.close()
 
-# === Step 9: Split and plot for Bacteria and Archaea ===
+# Split and plot for Bacteria and Archaea
 bacteria_df = normalized_df[normalized_df['Domain'] == 'Bacteria']
 archaea_df = normalized_df[normalized_df['Domain'] == 'Archaea']
 
