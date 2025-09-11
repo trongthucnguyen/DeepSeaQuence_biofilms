@@ -1,7 +1,7 @@
 This folder contains the scripts used to generate the figures in the manuscript "Remarkable Biosynthetic Capacity of Arctic Hydrothermal Biofilms" (Nguyen et al., 2025).
 Each script corresponds to one or more figures in the paper, as listed below.
 
-    Scripts and Associated Figures
+Scripts and Associated Figures
 
   Barplot_MAG_phylum.py → Figure 2
 
@@ -25,6 +25,6 @@ Each script corresponds to one or more figures in the paper, as listed below.
 
   box_plots_transcript.py → Figure S6B
 
-    Usage
+Usage
 
 Each script can be executed with Python 3. Please ensure that the required dependencies are installed before running.
