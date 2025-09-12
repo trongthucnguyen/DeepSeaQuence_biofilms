@@ -4,7 +4,7 @@ import seaborn as sns
 
 # Load data
 
-df = pd.read_csv("MAG_phyla.csv", sep=",")
+df = pd.read_csv("MAG_phylum.csv", sep=",")
 
 # Count MAGs per Metagenome & Phylum
 
