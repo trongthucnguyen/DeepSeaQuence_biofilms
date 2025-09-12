@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 
 # Load data 
 summary_df = pd.read_csv("MAG_phylum.csv")  
-bgc_df = pd.read_csv("BGC_class.csv")        
+bgc_df = pd.read_csv("MAG_BGC.csv")        
 
 # Merge tables on MAG/genome_ID
-merged_df = bgc_df.merge(summary_df, left_on="MAG", right_on="genome_ID")
+merged_df = bgc_df.merge(summary_df, left_on="MAG", right_on="MAG")
 
 # Count BGC classes per Phylum 
 class_counts = (
