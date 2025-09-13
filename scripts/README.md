@@ -5,7 +5,7 @@ Scripts and Associated Figures
 
   Barplot_MAG_phylum.py → Figure 2
 
-  Barplot_BGCcount.py → Figures 5A, 6A
+  Barplot_BGC_count.py → Figures 5A, 6A
 
   heatmap_metagenome_expression.py → Figures 5B, 6B
 
