@@ -1,0 +1,518 @@
+﻿Metagenome,MAG,BGC,class,Predicted product,TPM,Domain,Phylum,Class,Order,Family,Genus,Species
+M39,Aegir_M39_B25,IAPKAMMO_161.region001,Other,acyl_amino_acids,2104.430852,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B25,IAPKAMMO_17.region001,Other,acyl_amino_acids,1549.164983,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B25,IAPKAMMO_248.region001,Other,acyl_amino_acids,2813.062811,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B25,IAPKAMMO_354.region001,Other,acyl_amino_acids,1903.506267,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B25,IAPKAMMO_89.region001,Other,acyl_amino_acids,1377.769323,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B18,OGOLDCED_79.region001,Other,acyl_amino_acids,721.139729,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,JAADGE01,JAADGE01,0
+M33,Barite_M33_B6,LPIDFHMF_74.region001,Hybrid,acyl_amino_acids:betalactone,1096.281021,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M24,Aegir_M24_B113,NEOEDNCB_12.region001,Other,arylpolyene,13947.84144,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M24,Aegir_M24_B92,NJPCPLPI_182.region001,Other,arylpolyene,4227.308348,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,PHOS-HE28,0,0
+M24,Aegir_M24_B62,OOCMFLME_120.region001,Other,arylpolyene,3944.112196,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M25,Aegir_M25_B40,EJKDLJJF_202.region001,Other,arylpolyene,95681.92052,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M36,Aegir_M36_B48,IGGOJNFL_15.region001,Other,arylpolyene,47104.63034,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurospirillaceae,Sulfurospirillum_A,0
+M36,Aegir_M36_B71,JGCHBLFO_296.region001,Other,arylpolyene,38596.97032,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M36,Aegir_M36_B40,MACFFGIF_121.region001,Other,arylpolyene,15617.24678,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M37,Aegir_M37_B35,CJICECBE_42.region001,Other,arylpolyene,104497.3637,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M38,Aegir_M38_B66,EMLCJMHO_94.region001,Other,arylpolyene,13622.55437,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,0,0
+M38,Aegir_M38_B72,JLHIKFCN_96.region001,Other,arylpolyene,17204.09585,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M38,Aegir_M38_B91,KMNIKALC_139.region001,Other,arylpolyene,12989.87468,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,GCA-2401635,0
+M38,Aegir_M38_B21,NIMPLCKH_11.region001,Other,arylpolyene,1292.750707,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M38,Aegir_M38_B101,OPDMMHKB_26.region001,Other,arylpolyene,1314.690388,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales_A,Kangiellaceae,GCA-002733465,0
+M39,Aegir_M39_B196,BKLBJKCE_188.region001,Other,arylpolyene,1540.282288,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAABRJ01,0,0
+M39,Aegir_M39_B82,DMCDPPBI_182.region001,Other,arylpolyene,3471.710448,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfocapsaceae,Desulforhopalus,0
+M39,Aegir_M39_B149,EDJGDHEF_49.region001,Other,arylpolyene,6681.024175,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B181,FNBCNFFH_51.region001,Other,arylpolyene,485.9269116,Bacteria,Myxococcota,Polyangia,Polyangiales,SG8-38,JAADHO01,0
+M39,Aegir_M39_B100,HPDNPIEA_257.region001,Other,arylpolyene,2250.756349,Bacteria,Myxococcota,B64-G9,B64-G9,B64-G9,0,0
+M39,Aegir_M39_B100,HPDNPIEA_481.region001,Other,arylpolyene,2016.618002,Bacteria,Myxococcota,B64-G9,B64-G9,B64-G9,0,0
+M39,Aegir_M39_B60,IGDGJELM_65.region001,Other,arylpolyene,490.7226601,Bacteria,Myxococcota,B64-G9,B64-G9,B64-G9,0,0
+M39,Aegir_M39_B19,JNHAIHPN_96.region001,Other,arylpolyene,1279.503331,Bacteria,Verrucomicrobiota,Kiritimatiellia,UBA8416,JAFGTH01,0,0
+M39,Aegir_M39_B20,KNGHPBFF_356.region001,Other,arylpolyene,1283.313739,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Crocinitomix,0
+M39,Aegir_M39_B119,MHCCPFAL_130.region001,Other,arylpolyene,1614.333165,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B126,NGIDNPEH_9.region001,Other,arylpolyene,501.6479724,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,JAGGTJ01,0
+M39,Aegir_M39_B55,NLFFCBIA_47.region001,Other,arylpolyene,803.9977785,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B39,NPMBOLIF_107.region001,Other,arylpolyene,812.5250755,Bacteria,Myxococcota_A,UBA9160,UBA9160,UBA4427,UBA4427,0
+M39,Aegir_M39_B18,OGOLDCED_13.region001,Other,arylpolyene,880.901616,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,JAADGE01,JAADGE01,0
+M39,Aegir_M39_B146,OICIJIOO_87.region001,Other,arylpolyene,1576.879257,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B13,OPIOGPAO_16.region001,Other,arylpolyene,502.7086678,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Putridiphycobacter,0
+M39,Aegir_M39_B77,PCIMOJGB_111.region001,Other,arylpolyene,540.5155965,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,UBA1556,QNXT01,0
+M39,Aegir_M39_B31,POFLEAAM_250.region001,Other,arylpolyene,7147.356892,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,B16-G9,0
+M33,Barite_M33_B31,ALBGKPPL_355.region001,Other,arylpolyene,2049.142523,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Kangiellaceae,GCA-002733465,0
+M33,Barite_M33_B55,CFPHHOAB_101.region001,Other,arylpolyene,4303.199298,Bacteria,Bdellovibrionota,Bdellovibrionia,Bdellovibrionales,JAGQZY01,JAGQZY01,0
+M33,Barite_M33_B30,COHBHEGN_38.region001,Other,arylpolyene,3087.572095,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Urechidicola,0
+M33,Barite_M33_B97,FAPGKHBG_56.region001,Other,arylpolyene,2123.265531,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B69,FHIEFOOH_136.region001,Other,arylpolyene,1488.022187,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M33,Barite_M33_B69,FHIEFOOH_192.region001,Other,arylpolyene,1142.414967,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M33,Barite_M33_B114,HJEFFHPK_141.region001,Other,arylpolyene,2629.969838,Bacteria,Pseudomonadota,Gammaproteobacteria,SZUA-229,SZUA-229,GCA-2746365,0
+M33,Barite_M33_B23,JICMBPMM_39.region001,Other,arylpolyene,3193.949328,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M33,Barite_M33_B112,NPLDDKJN_692.region001,Other,arylpolyene,1976.394911,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Reichenbachiella,0
+M33,Barite_M33_B30,COHBHEGN_65.region001,Hybrid,arylpolyene:betalactone:resorcinol,4056.17461,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Urechidicola,0
+M24,Aegir_M24_B26,BLIMOGOC_29.region001,Hybrid,arylpolyene:resorcinol,4581.324808,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,GCA-002733185,0
+M24,Aegir_M24_B10,BPIAAOIK_41.region001,Hybrid,arylpolyene:resorcinol,4949.895717,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Salibacteraceae,CAJXZP01,0
+M24,Aegir_M24_B113,NEOEDNCB_47.region001,Hybrid,arylpolyene:resorcinol,3952.430867,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M24,Aegir_M24_B88,OBCMDBHP_62.region001,Hybrid,arylpolyene:resorcinol,5472.256567,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M25,Aegir_M25_B130,EMAHDGMJ_79.region001,Hybrid,arylpolyene:resorcinol,7227.159918,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Salibacteraceae,CAJXZP01,0
+M36,Aegir_M36_B24,DHGLLEPI_171.region001,Hybrid,arylpolyene:resorcinol,2297.379463,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Salibacteraceae,CAJXZP01,0
+M36,Aegir_M36_B59,LBFMECOL_22.region001,Hybrid,arylpolyene:resorcinol,3890.883098,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M36,Aegir_M36_B62,NDIICOJF_10.region002,Hybrid,arylpolyene:resorcinol,2831.180459,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,UBA12170,UBA12170,0
+M36,Aegir_M36_B54,NEFIDIMH_10.region001,Hybrid,arylpolyene:resorcinol,3886.109529,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M37,Aegir_M37_B36,HECOAHAK_45.region001,Hybrid,arylpolyene:resorcinol,12650.34026,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M38,Aegir_M38_B25,CIGBJIDC_43.region001,Hybrid,arylpolyene:resorcinol,1073.050312,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,UBA4466,0
+M38,Aegir_M38_B66,EMLCJMHO_126.region001,Hybrid,arylpolyene:resorcinol,11364.18787,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,0,0
+M38,Aegir_M38_B92,HJJGMEJB_43.region001,Hybrid,arylpolyene:resorcinol,887.6308626,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B77,IEOKNLIK_64.region001,Hybrid,arylpolyene:resorcinol,24936.10375,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B31,JEMMGIEH_106.region001,Hybrid,arylpolyene:resorcinol,3720.927328,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Urechidicola,0
+M38,Aegir_M38_B89,KDNKGBAB_28.region001,Hybrid,arylpolyene:resorcinol,1017.153854,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,UBA4466,0
+M39,Aegir_M39_B5,CBKCKAFE_11.region001,Hybrid,arylpolyene:resorcinol,4727.514288,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M39,Aegir_M39_B177,DPONBGFN_110.region001,Hybrid,arylpolyene:resorcinol,5864.985627,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Salibacteraceae,CAJXZP01,0
+M39,Aegir_M39_B67,HCGIIHJE_5.region001,Hybrid,arylpolyene:resorcinol,5552.737195,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M39,Aegir_M39_B136,IGJLCKIK_38.region001,Hybrid,arylpolyene:resorcinol,1322.760755,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,UBA4459,0
+M39,Aegir_M39_B136,IGJLCKIK_8.region001,Hybrid,arylpolyene:resorcinol,2116.025428,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,UBA4459,0
+M39,Aegir_M39_B121,JGGEIKLM_65.region001,Hybrid,arylpolyene:resorcinol,4231.05027,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,GCA-002733185,0
+M39,Aegir_M39_B137,MGGLONMC_3.region001,Hybrid,arylpolyene:resorcinol,13523.30002,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M39,Aegir_M39_B126,NGIDNPEH_5.region001,Hybrid,arylpolyene:resorcinol,855.9496326,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,JAGGTJ01,0
+M39,Aegir_M39_B198,OHIALCHJ_57.region001,Hybrid,arylpolyene:resorcinol,391.1287128,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,0,0
+M33,Barite_M33_B56,ENICKNPH_42.region001,Hybrid,arylpolyene:resorcinol,578.408014,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M36,Aegir_M36_B34,CHHKDDGB_23.region001,Other,betalactone,4320.792125,Bacteria,Myxococcota,UBA796,UBA796,CAJQPC01,CAJQPC01,0
+M36,Aegir_M36_B64,GKCHABDB_67.region001,Other,betalactone,4477.980943,Bacteria,Myxococcota,UBA796,UBA796,GCA-2862545,JACKEQ01,0
+M36,Aegir_M36_B63,OGCOFHCG_9.region001,Other,betalactone,5290.76914,Bacteria,Pseudomonadota,Gammaproteobacteria,Thiomicrospirales,Thiomicrospiraceae,Thiomicrorhabdus,0
+M38,Aegir_M38_B104,ENCCGMIM_73.region001,Other,betalactone,1735.6173,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Emcibacteraceae,Paremcibacter,0
+M39,Aegir_M39_B161,EACKFKNK_79.region001,Other,betalactone,1450.573361,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus_A,0
+M39,Aegir_M39_B128,EBJAGHMO_62.region001,Other,betalactone,756.6467003,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,JAJRUE01,0
+M39,Aegir_M39_B94,FNBAOPIA_73.region001,Other,betalactone,940.0313964,Bacteria,Spirochaetota,Spirochaetia,B11-G9,B11-G9,S145-15,0
+M39,Aegir_M39_B94,FNBAOPIA_74.region001,Other,betalactone,847.0637965,Bacteria,Spirochaetota,Spirochaetia,B11-G9,B11-G9,S145-15,0
+M39,Aegir_M39_B127,GNEJKKOJ_50.region001,Other,betalactone,1208.910044,Bacteria,Pseudomonadota,Gammaproteobacteria,GCA-001735895,GCA-001735895,JACNJF01,0
+M39,Aegir_M39_B117,IAKFMJEM_44.region001,Other,betalactone,15577.59572,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,0
+M39,Aegir_M39_B109,ICBCKKKK_35.region001,Other,betalactone,4801.961891,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,JAADJA01,JAADJA01,0
+M39,Aegir_M39_B136,IGJLCKIK_46.region001,Other,betalactone,4174.881592,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,UBA4459,0
+M39,Aegir_M39_B71,OEDHKPFD_97.region001,Other,betalactone,2609.202251,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,QPIN01 sp021647585
+M39,Aegir_M39_B198,OHIALCHJ_181.region001,Other,betalactone,687.4422828,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,0,0
+M39,Aegir_M39_B146,OICIJIOO_144.region001,Other,betalactone,4588.823754,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M33,Barite_M33_B92,MHCCMMMN_217.region001,Other,betalactone,1069.297341,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M36,Aegir_M36_B45,KCAABIEO_245.region001,NRP,CDPS,13268.04537,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Bernardetiaceae,0,0
+M38,Aegir_M38_B73,GACEDKPE_108.region001,NRP,CDPS,6674.282006,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M33,Barite_M33_B23,JICMBPMM_86.region001,NRP,CDPS,17611.43439,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M38,Aegir_M38_B19,ECPBKFON_90.region001,Other,ectoine,8480.602405,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,AB-137-C09,0
+M39,Aegir_M39_B117,IAKFMJEM_55.region001,Other,ectoine,3198.46155,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,0
+M24,Aegir_M24_B66,ABLFJFHB_66.region001,Polyketide,hglE-KS,7602.915054,Bacteria,Bdellovibrionota,Oligoflexia,Oligoflexales,0,0,0
+M24,Aegir_M24_B45,DPHDEEHI_103.region001,Polyketide,hglE-KS,2525.910391,Bacteria,Myxococcota,Bradymonadia,Bradymonadales,Bradymonadaceae,CALJNB01,0
+M24,Aegir_M24_B45,DPHDEEHI_74.region001,Polyketide,hglE-KS,4884.155129,Bacteria,Myxococcota,Bradymonadia,Bradymonadales,Bradymonadaceae,CALJNB01,0
+M24,Aegir_M24_B94,FBDIKMAG_101.region001,Polyketide,hglE-KS,1619.430552,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Azotimanducaceae_A,JAHRVQ01,0
+M24,Aegir_M24_B6,KKNDCODD_112.region001,Polyketide,hglE-KS,6671.916479,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Saprospiraceae,CAJQQY01,0
+M24,Aegir_M24_B103,PADGKGNB_119.region001,Polyketide,hglE-KS,6287.323371,Bacteria,Planctomycetota,UBA11346,UBA11346,UBA11346,JANQLF01,0
+M36,Aegir_M36_B46,AODPIKDL_6.region001,Polyketide,hglE-KS,3510.976191,Bacteria,Myxococcota,UBA727,UBA727,0,0,0
+M36,Aegir_M36_B2,NDAJAKLO_97.region001,Polyketide,hglE-KS,21189.03098,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfobacteraceae,0,0
+M38,Aegir_M38_B76,BPOLMMFO_66.region001,Polyketide,hglE-KS,2132.300736,Bacteria,Myxococcota,Bradymonadia,UBA7976,UBA1532,0,0
+M38,Aegir_M38_B19,ECPBKFON_70.region001,Polyketide,hglE-KS,20449.15899,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,AB-137-C09,0
+M38,Aegir_M38_B64,NAOKMLNH_95.region001,Polyketide,hglE-KS,6716.338172,Bacteria,Bdellovibrionota,Oligoflexia,Oligoflexales,0,0,0
+M39,Aegir_M39_B99,AAIIPECO_23.region001,Polyketide,hglE-KS,1133.518788,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfosarcinaceae,0,0
+M39,Aegir_M39_B79,ECMLGHLP_74.region001,Polyketide,hglE-KS,1035.205988,Bacteria,Chloroflexota,Anaerolineae,JAFGEY01,JAFGEY01,0,0
+M39,Aegir_M39_B120,EEAGJODL_216.region001,Polyketide,hglE-KS,564.6860728,Bacteria,Myxococcota,Bradymonadia,Bradymonadales,Bradymonadaceae,0,0
+M39,Aegir_M39_B181,FNBCNFFH_221.region001,Polyketide,hglE-KS,685.6420991,Bacteria,Myxococcota,Polyangia,Polyangiales,SG8-38,JAADHO01,0
+M33,Barite_M33_B110,FEKFMOAO_314.region001,Polyketide,hglE-KS,3523.309892,Bacteria,Myxococcota_A,UBA9160,UBA9160,UBA4427,UBA4427,0
+M33,Barite_M33_B58,LMIOODIL_111.region001,Polyketide,hglE-KS,2704.80547,Bacteria,Myxococcota,Bradymonadia,UBA4248,0,0,0
+M33,Barite_M33_B58,LMIOODIL_162.region001,Polyketide,hglE-KS,1298.787617,Bacteria,Myxococcota,Bradymonadia,UBA4248,0,0,0
+M33,Barite_M33_B37,NKGBANJE_55.region001,Polyketide,hglE-KS,428.6862874,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Halieaceae,Halioglobus,0
+M24,Aegir_M24_B103,PADGKGNB_202.region001,Hybrid,hglE-KS:T1PKS,8187.02077,Bacteria,Planctomycetota,UBA11346,UBA11346,UBA11346,JANQLF01,0
+M39,Aegir_M39_B99,AAIIPECO_57.region001,Hybrid,hglE-KS:T1PKS,661.6695194,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfosarcinaceae,0,0
+M39,Aegir_M39_B141,FDIMNBAG_121.region001,Hybrid,hglE-KS:T1PKS,652.3211343,Bacteria,Desulfobacterota_F,DSWW01,DSWW01,DSWW01,0,0
+M39,Aegir_M39_B98,KEGBFKGK_10.region001,Hybrid,hglE-KS:T1PKS,3715.680615,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAFDDL01,0,0
+M39,Aegir_M39_B174,PAJIPFJH_161.region001,Hybrid,hglE-KS:T1PKS,1298.295936,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M33,Barite_M33_B66,NGMOPKMC_308.region001,Hybrid,hglE-KS:T1PKS,873.8659386,Bacteria,Hydrogenedentota,Hydrogenedentia,Hydrogenedentiales,GCA-2746185,DTSJ01,0
+M24,Aegir_M24_B115,FBCILAEC_199.region001,Other,hserlactone,10920.76496,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Profundibacter,0
+M24,Aegir_M24_B52,JLMBNEBE_91.region001,Other,hserlactone,4713.473694,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,Colwellia,0
+M25,Aegir_M25_B191,DOFINDKD_26.region001,Other,hserlactone,34564.37391,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B149,EDJGDHEF_149.region001,Other,hserlactone,5998.535734,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B149,EDJGDHEF_50.region001,Other,hserlactone,1266.420795,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B108,ELMMPHKD_253.region001,Other,hserlactone,1283.632298,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M39,Aegir_M39_B117,IAKFMJEM_125.region001,Other,hserlactone,1243.653851,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,0
+M39,Aegir_M39_B117,IAKFMJEM_197.region001,Other,hserlactone,2516.662714,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,0
+M39,Aegir_M39_B182,LIPJKAHJ_33.region001,Other,hserlactone,3002.678435,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Profundibacter,Profundibacter amoris
+M39,Aegir_M39_B182,LIPJKAHJ_67.region001,Other,hserlactone,2009.076863,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Profundibacter,Profundibacter amoris
+M39,Aegir_M39_B55,NLFFCBIA_81.region001,Other,hserlactone,1712.430735,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B146,OICIJIOO_157.region001,Other,hserlactone,1774.575399,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M33,Barite_M33_B42,BMMDGOPI_13.region001,Other,hserlactone,762.6862139,Bacteria,Pseudomonadota,Alphaproteobacteria,Micavibrionales,Micavibrionaceae,JAJRYK01,0
+M33,Barite_M33_B88,CDIGHOGO_114.region001,Other,hserlactone,771.444227,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Amylibacter,0
+M33,Barite_M33_B2,JBFOKAIG_13.region001,Other,hserlactone,771.1079718,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Maricaulaceae,Robiginitomaculum_A,0
+M39,Aegir_M39_B102,HHBKGBCH_15.region001,Hybrid,hserlactone:RiPP-redox-cofactor,489.9787006,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicella,0
+M37,Aegir_M37_B54,LHGBMGDM_390.region001,Other,hydrogen-cyanide,86343.50345,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,GCA-2711565,GCA-2711565,0
+M38,Aegir_M38_B72,JLHIKFCN_28.region001,Other,hydrogen-cyanide,88580.33261,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M38,Aegir_M38_B21,NIMPLCKH_3.region001,Other,hydrogen-cyanide,10707.88955,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B196,BKLBJKCE_397.region001,Other,hydrogen-cyanide,2530.517598,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAABRJ01,0,0
+M39,Aegir_M39_B23,CIBCBEEE_156.region001,Other,hydrogen-cyanide,24230.12594,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B184,EDPJEEBL_131.region001,Other,hydrogen-cyanide,4746.317312,Archaea,Asgardarchaeota,Heimdallarchaeia,UBA460,UBA460,0,0
+M39,Aegir_M39_B123,GAPCFIGP_110.region001,Other,hydrogen-cyanide,1453.478381,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,B46-G9,0
+M39,Aegir_M39_B192,HEEDOPCH_142.region001,Other,hydrogen-cyanide,6465.911487,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B109,ICBCKKKK_30.region001,Other,hydrogen-cyanide,4360.588352,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,JAADJA01,JAADJA01,0
+M39,Aegir_M39_B154,IPGEANND_7.region001,Other,hydrogen-cyanide,3101.582073,Bacteria,Krumholzibacteriota,Krumholzibacteria,Krumholzibacteriales,Krumholzibacteriaceae,4484-7,0
+M39,Aegir_M39_B144,LEDLLEGN_61.region001,Other,hydrogen-cyanide,9704.934711,Bacteria,Pseudomonadota,Gammaproteobacteria,Chromatiales,Sedimenticolaceae,Thiolapillus,0
+M39,Aegir_M39_B38,LLKGMAIK_200.region001,Other,hydrogen-cyanide,2216.982942,Bacteria,Chloroflexota,Anaerolineae,B4-G1,B4-G1,B4-G1,0
+M39,Aegir_M39_B146,OICIJIOO_102.region001,Other,hydrogen-cyanide,5058.559757,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B180,PILMEDLM_183.region001,Other,hydrogen-cyanide,7373.25957,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,B111-G9,0
+M33,Barite_M33_B85,CMOCHALP_315.region001,Other,hydrogen-cyanide,7403.783958,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudohongiellaceae,UBA9145,0
+M33,Barite_M33_B6,LPIDFHMF_27.region001,Other,hydrogen-cyanide,1827.365707,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M33,Barite_M33_B89,EMEEGMFL_525.region001,Hybrid,hydrogen-cyanide:NRPS:transAT-PKS,1220.887449,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M36,Aegir_M36_B50,ECGDAIFI_37.region001,RiPP,lanthipeptide,17543.21371,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,JAKISE01,0
+M36,Aegir_M36_B69,GLOGLBCN_2.region001,RiPP,lanthipeptide,24991.42832,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Parvicellaceae,S010-51,0
+M37,Aegir_M37_B30,MNOMKIBA_153.region001,RiPP,lanthipeptide,23762.98928,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Maribacter_C,0
+M33,Barite_M33_B115,BIPDNBCM_163.region001,RiPP,lanthipeptide,954.7183187,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Salibacteraceae,CAJXZP01,0
+M33,Barite_M33_B21,PKDJBPAN_94.region001,RiPP,lanthipeptide,601.6641122,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Roseivirga,0
+M33,Barite_M33_B58,LMIOODIL_163.region001,RiPP,lassopeptide,1116.147031,Bacteria,Myxococcota,Bradymonadia,UBA4248,0,0,0
+M33,Barite_M33_B69,FHIEFOOH_102.region001,Hybrid,lassopeptide:RRE-containing,2606.505263,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M37,Aegir_M37_B22,NLCMHHHC_240.region001,Other,NAPAA,80929.13575,Bacteria,Pseudomonadota,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,HyVt-477,0
+M24,Aegir_M24_B12,AMEDOMHJ_272.region001,NRP,NRP generic,19387.18236,Bacteria,Pseudomonadota,Gammaproteobacteria,SZUA-229,SZUA-229,GCA-2746365,0
+M24,Aegir_M24_B127,DHLFLHGA_556.region001,NRP,NRP generic,16361.87432,Bacteria,Planctomycetota,GCA-2746535,GCA-2746535,GCA-2746535,GCA-2746535,0
+M24,Aegir_M24_B58,GNKANFNI_27.region001,NRP,NRP generic,90566.54955,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M24,Aegir_M24_B70,KKGMONJA_202.region001,NRP,NRP generic,33642.4635,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,GCA-2733885,0
+M24,Aegir_M24_B75,NCJJNLBN_17.region001,NRP,NRP generic,5932.439931,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M25,Aegir_M25_B188,DCCNGCIG_256.region001,NRP,NRP generic,21430.55677,Bacteria,KSB1,UBA2214,JACIZP01,JADDFT01,JADDFT01,0
+M25,Aegir_M25_B125,EBNFPCOF_168.region001,NRP,NRP generic,10692.47689,Bacteria,Chloroflexota,Anaerolineae,4572-78,J111,J111,0
+M25,Aegir_M25_B56,NICDANKK_55.region001,NRP,NRP generic,26870.56608,Bacteria,Calditrichota,Calditrichia,RBG-13-44-9,J042,WGBF01,0
+M25,Aegir_M25_B56,NICDANKK_66.region001,NRP,NRP generic,153844.8102,Bacteria,Calditrichota,Calditrichia,RBG-13-44-9,J042,WGBF01,0
+M36,Aegir_M36_B66,EOCGDEIA_30.region001,NRP,NRP generic,12058.08404,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,SZUA-451,0
+M36,Aegir_M36_B66,EOCGDEIA_59.region001,NRP,NRP generic,35581.28093,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,SZUA-451,0
+M37,Aegir_M37_B9,EMJIGOFO_71.region001,NRP,NRP generic,8910.036308,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M38,Aegir_M38_B30,APGDIBME_12.region001,NRP,NRP generic,1678.468248,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M38,Aegir_M38_B26,BHAGBGDA_6.region001,NRP,NRP generic,6470.775507,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M38,Aegir_M38_B66,EMLCJMHO_100.region001,NRP,NRP generic,6243.360777,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,0,0
+M38,Aegir_M38_B43,NPMKINEH_135.region001,NRP,NRP generic,4073.350137,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,Mariprofundus,0
+M38,Aegir_M38_B43,NPMKINEH_226.region001,NRP,NRP generic,4792.486471,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,Mariprofundus,0
+M38,Aegir_M38_B101,OPDMMHKB_58.region001,NRP,NRP generic,3177.089866,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales_A,Kangiellaceae,GCA-002733465,0
+M39,Aegir_M39_B192,HEEDOPCH_120.region001,NRP,NRP generic,472.0752886,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B102,HHBKGBCH_73.region001,NRP,NRP generic,575.7034943,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicella,0
+M39,Aegir_M39_B25,IAPKAMMO_326.region001,NRP,NRP generic,1969.385018,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B112,ICNECMED_130.region001,NRP,NRP generic,2448.857625,Bacteria,Calditrichota,Calditrichia,Calditrichales,Calditrichaceae,JANTFQ01,0
+M39,Aegir_M39_B15,JKANDIBI_276.region001,NRP,NRP generic,662.0507264,Bacteria,KSB1,UBA2214,UBA2214,Zgenome-0027,JAJRST01,0
+M39,Aegir_M39_B15,JKANDIBI_61.region001,NRP,NRP generic,1784.83483,Bacteria,KSB1,UBA2214,UBA2214,Zgenome-0027,JAJRST01,0
+M39,Aegir_M39_B29,LDFDGFAA_263.region001,NRP,NRP generic,4070.540361,Bacteria,Calditrichota,Calditrichia,Calditrichales,Calditrichaceae,Caldithrix,0
+M39,Aegir_M39_B125,LGFNCOND_229.region001,NRP,NRP generic,548.8484317,Bacteria,KSB1,UBA2214,JACIZP01,JADDFT01,JADDFT01,0
+M39,Aegir_M39_B55,NLFFCBIA_4.region001,NRP,NRP generic,1415.7412,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B174,PAJIPFJH_141.region001,NRP,NRP generic,520.7696782,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B63,PMCGENNM_191.region001,NRP,NRP generic,2756.456669,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,GCA-2746605,0
+M39,Aegir_M39_B63,PMCGENNM_264.region001,NRP,NRP generic,3036.769724,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,GCA-2746605,0
+M33,Barite_M33_B31,ALBGKPPL_221.region001,NRP,NRP generic,2286.634698,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Kangiellaceae,GCA-002733465,0
+M33,Barite_M33_B89,EMEEGMFL_242.region001,NRP,NRP generic,2540.178271,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_269.region001,NRP,NRP generic,1156.437929,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_318.region001,NRP,NRP generic,2090.851924,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_372.region001,NRP,NRP generic,7170.383878,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_403.region001,NRP,NRP generic,4269.733816,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_414.region001,NRP,NRP generic,2182.867755,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_503.region001,NRP,NRP generic,1312.816408,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_559.region001,NRP,NRP generic,541.7802301,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_56.region001,NRP,NRP generic,7876.249024,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_634.region001,NRP,NRP generic,5234.003091,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_637.region001,NRP,NRP generic,1881.791443,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_647.region001,NRP,NRP generic,5391.749882,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_767.region001,NRP,NRP generic,4564.746961,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_880.region001,NRP,NRP generic,6504.018546,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_892.region001,NRP,NRP generic,2781.10697,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B97,FAPGKHBG_142.region001,NRP,NRP generic,13072.11609,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_151.region001,NRP,NRP generic,23492.19831,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_171.region001,NRP,NRP generic,6882.638646,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_17.region001,NRP,NRP generic,8658.819557,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_206.region001,NRP,NRP generic,16944.13345,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_53.region001,NRP,NRP generic,17130.17348,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_98.region001,NRP,NRP generic,5935.447307,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B69,FHIEFOOH_130.region001,NRP,NRP generic,2335.093848,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M33,Barite_M33_B74,GEAAAAEN_303.region001,NRP,NRP generic,764.8845792,Bacteria,Bacteroidota,Bacteroidia,J057,JADKCL01,0,0
+M33,Barite_M33_B23,JICMBPMM_213.region001,NRP,NRP generic,9269.880332,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M33,Barite_M33_B38,JMMHIICP_88.region001,NRP,NRP generic,793.1769448,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Kangiellaceae,GCA-002733465,0
+M33,Barite_M33_B21,PKDJBPAN_103.region001,NRP,NRP generic,1362.548842,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Roseivirga,0
+M33,Barite_M33_B21,PKDJBPAN_152.region001,NRP,NRP generic,519.5404752,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Roseivirga,0
+M33,Barite_M33_B21,PKDJBPAN_85.region001,NRP,NRP generic,1174.285049,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Roseivirga,0
+M24,Aegir_M24_B45,DPHDEEHI_35.region001,NRP,NRPS-like,3033.754803,Bacteria,Myxococcota,Bradymonadia,Bradymonadales,Bradymonadaceae,CALJNB01,0
+M24,Aegir_M24_B62,OOCMFLME_373.region001,NRP,NRPS-like,20012.71744,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M25,Aegir_M25_B64,NPKIOIOJ_12.region001,NRP,NRPS-like,27142.71901,Bacteria,Aquificota,Aquificae,Hydrogenothermales,Hydrogenothermaceae,Persephonella,0
+M36,Aegir_M36_B46,AODPIKDL_115.region001,NRP,NRPS-like,5577.719092,Bacteria,Myxococcota,UBA727,UBA727,0,0,0
+M36,Aegir_M36_B34,CHHKDDGB_45.region002,NRP,NRPS-like,3189.996451,Bacteria,Myxococcota,UBA796,UBA796,CAJQPC01,CAJQPC01,0
+M37,Aegir_M37_B17,NGEBLNKK_39.region001,NRP,NRPS-like,14076.15471,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M38,Aegir_M38_B95,NLOGALHF_173.region001,NRP,NRPS-like,10406.05959,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,0,0
+M39,Aegir_M39_B110,BFEMGKGJ_12.region001,NRP,NRPS-like,731.8043816,Bacteria,Myxococcota,Polyangia,Haliangiales,Haliangiaceae,NORP324,0
+M39,Aegir_M39_B17,CBJJPFKK_17.region001,NRP,NRPS-like,1000.989685,Bacteria,Aquificota,Aquificae,Hydrogenothermales,Hydrogenothermaceae,Persephonella,0
+M39,Aegir_M39_B23,CIBCBEEE_111.region001,NRP,NRPS-like,3328.328285,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B191,EEGHMLPD_225.region001,NRP,NRPS-like,44224.54365,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,Methyloprofundus sp900128525
+M39,Aegir_M39_B150,GLJOBBPH_429.region001,NRP,NRPS-like,32780.42923,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,Thiomargarita,0
+M39,Aegir_M39_B25,IAPKAMMO_313.region001,NRP,NRPS-like,2696.44777,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B146,OICIJIOO_10.region001,NRP,NRPS-like,1218.560243,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M33,Barite_M33_B105,ADJNEHKA_168.region001,NRP,NRPS-like,2482.356938,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M33,Barite_M33_B87,BAIALBNB_118.region001,NRP,NRPS-like,543.5001673,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,SZUA-36,SZUA-36,0
+M33,Barite_M33_B102,BFHHFIMI_62.region001,NRP,NRPS-like,1105.414476,Bacteria,Planctomycetota,UBA1135,UBA1135,GCA-002686595,NORP259,0
+M33,Barite_M33_B113,BMEKDGJI_3.region001,NRP,NRPS-like,461.7300525,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,0,0
+M33,Barite_M33_B89,EMEEGMFL_660.region001,NRP,NRPS-like,13690.31591,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_71.region001,NRP,NRPS-like,5048.941621,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_748.region001,NRP,NRPS-like,2338.351799,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B97,FAPGKHBG_276.region001,NRP,NRPS-like,28255.25715,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_290.region001,NRP,NRPS-like,10098.68384,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B97,FAPGKHBG_358.region001,NRP,NRPS-like,21400.31909,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B36,KPIBPLGM_307.region001,NRP,NRPS-like,4915.664527,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M33,Barite_M33_B17,MANEPPGP_469.region001,NRP,NRPS-like,5949.8645,Bacteria,Planctomycetota,UBA1135,UBA1135,UBA1135,GCA-2746235,0
+M33,Barite_M33_B92,MHCCMMMN_30.region001,NRP,NRPS-like,1316.180656,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M33,Barite_M33_B35,MMHLBHKL_421.region001,NRP,NRPS-like,1169.090051,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M39,Aegir_M39_B23,CIBCBEEE_91.region001,Hybrid,NRPS-like:arylpolyene,4667.069234,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M25,Aegir_M25_B198,AFNHJEFG_35.region001,Hybrid,NRPS-like:RRE-containing,10340.08343,Bacteria,Aquificota,Aquificae,Hydrogenothermales,Hydrogenothermaceae,0,0
+M39,Aegir_M39_B75,GOFKCKIN_92.region001,Hybrid,NRPS-like:T1PKS,2238.916161,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,0,0,0
+M39,Aegir_M39_B105,MEBADGCM_128.region001,Hybrid,NRPS-like:T1PKS,1304.765713,Bacteria,Planctomycetota,UBA1135,UBA1135,GCA-002686595,0,0
+M39,Aegir_M39_B39,NPMBOLIF_73.region001,Hybrid,NRPS-like:T1PKS,719.0839856,Bacteria,Myxococcota_A,UBA9160,UBA9160,UBA4427,UBA4427,0
+M33,Barite_M33_B88,CDIGHOGO_170.region001,Hybrid,NRPS-like:T1PKS,388.6977541,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Amylibacter,0
+M39,Aegir_M39_B166,GHHMGHBK_53.region001,Hybrid,NRPS:lanthipeptide,972.7679284,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M33,Barite_M33_B89,EMEEGMFL_888.region001,Hybrid,NRPS:NRP-metallophore,1080.252215,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B97,FAPGKHBG_244.region001,Hybrid,NRPS:NRPS-like,15216.35199,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B23,JICMBPMM_2.region001,Hybrid,NRPS:NRPS-like,11098.20642,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M33,Barite_M33_B4,NGHILOBA_38.region001,Hybrid,NRPS:NRPS-like:RRE-containing,1320.364667,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Poriferihabitantaceae,JAAELZ01,0
+M39,Aegir_M39_B63,PMCGENNM_184.region001,Hybrid,NRPS:NRPS-like:T1PKS,1309.971555,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,GCA-2746605,0
+M33,Barite_M33_B29,NJGHEJCP_235.region001,Hybrid,NRPS:NRPS-like:T1PKS,885.7274923,Bacteria,Pseudomonadota,Gammaproteobacteria,SZUA-229,SZUA-229,GCA-2746365,0
+M33,Barite_M33_B29,NJGHEJCP_65.region001,Hybrid,NRPS:NRPS-like:T1PKS,680.5367328,Bacteria,Pseudomonadota,Gammaproteobacteria,SZUA-229,SZUA-229,GCA-2746365,0
+M24,Aegir_M24_B72,AMCEHCFD_185.region001,Hybrid,NRPS:T1PKS,1665.408655,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Crocinitomix,0
+M24,Aegir_M24_B58,GNKANFNI_29.region001,Hybrid,NRPS:T1PKS,44573.76133,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M24,Aegir_M24_B62,OOCMFLME_168.region001,Hybrid,NRPS:T1PKS,3292.313451,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B112,ICNECMED_48.region001,Hybrid,NRPS:T1PKS,1908.6292,Bacteria,Calditrichota,Calditrichia,Calditrichales,Calditrichaceae,JANTFQ01,0
+M39,Aegir_M39_B15,JKANDIBI_129.region001,Hybrid,NRPS:T1PKS,535.5058988,Bacteria,KSB1,UBA2214,UBA2214,Zgenome-0027,JAJRST01,0
+M39,Aegir_M39_B20,KNGHPBFF_139.region001,Hybrid,NRPS:T1PKS,2139.475677,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Crocinitomix,0
+M39,Aegir_M39_B105,MEBADGCM_146.region001,Hybrid,NRPS:T1PKS,827.2456745,Bacteria,Planctomycetota,UBA1135,UBA1135,GCA-002686595,0,0
+M33,Barite_M33_B89,EMEEGMFL_543.region001,Hybrid,NRPS:T1PKS,1075.291241,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_557.region001,Hybrid,NRPS:T1PKS,1098.360748,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B69,FHIEFOOH_3.region001,Hybrid,NRPS:T1PKS,2027.355625,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M39,Aegir_M39_B147,FKCHBHNE_74.region001,Other,nucleoside,2932.439513,Archaea,Thermoplasmatota,E2,DHVEG-1,DHVEG-1,B44-G15,0
+M33,Barite_M33_B90,MDJGNOFL_226.region001,Other,phosphonate,7498.51055,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,0,0
+M33,Barite_M33_B112,NPLDDKJN_303.region001,Other,phosphonate,2274.223311,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Reichenbachiella,0
+M24,Aegir_M24_B52,JLMBNEBE_3.region001,Other,PUFA,18265.44368,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,Colwellia,0
+M24,Aegir_M24_B58,GNKANFNI_31.region001,RiPP,ranthipeptide,65928.21104,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M36,Aegir_M36_B15,LAPKCFCO_69.region001,RiPP,ranthipeptide,10707.5279,Bacteria,Myxococcota,Polyangia,HGW-17,HGW-17,0,0
+M37,Aegir_M37_B40,LOEOMKJD_89.region001,RiPP,ranthipeptide,176839.2651,Bacteria,Fermentibacterota,Fermentibacteria,Fermentibacterales,Fermentibacteraceae,Sabulitectum,0
+M38,Aegir_M38_B4,CCEEDJDB_76.region001,RiPP,ranthipeptide,3699.226288,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,G60ANME1,0
+M38,Aegir_M38_B73,GACEDKPE_18.region001,RiPP,ranthipeptide,3680.498216,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M38,Aegir_M38_B75,IBOODKDA_98.region001,RiPP,ranthipeptide,3877.721697,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,GCA-2401635,0
+M38,Aegir_M38_B72,JLHIKFCN_72.region001,RiPP,ranthipeptide,109492.6899,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M39,Aegir_M39_B53,DHNEMAIL_97.region001,RiPP,ranthipeptide,18102.96766,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M39,Aegir_M39_B142,GEPOGDIE_170.region001,RiPP,ranthipeptide,2757.92678,Bacteria,Fermentibacterota,Fermentibacteria,Fermentibacterales,Fermentibacteraceae,Sabulitectum,0
+M39,Aegir_M39_B71,OEDHKPFD_39.region001,RiPP,ranthipeptide,3466.764577,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,QPIN01 sp021647585
+M33,Barite_M33_B62,AGFGDEPP_5.region001,RiPP,ranthipeptide,741.4817399,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Emcibacteraceae,Paremcibacter,0
+M33,Barite_M33_B23,JICMBPMM_201.region001,RiPP,ranthipeptide,20472.9811,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M24,Aegir_M24_B131,CIIHKDJI_39.region001,RiPP,redox-cofactor,8429.935819,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M24,Aegir_M24_B122,FDEIFABP_83.region001,RiPP,redox-cofactor,22183.52013,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M24,Aegir_M24_B44,LIEFECIJ_32.region001,RiPP,redox-cofactor,3981.194659,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M24,Aegir_M24_B84,NEHKBEFE_18.region001,RiPP,redox-cofactor,8362.304243,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M25,Aegir_M25_B191,DOFINDKD_55.region001,RiPP,redox-cofactor,74927.05845,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M36,Aegir_M36_B12,GOFJAIOF_12.region001,RiPP,redox-cofactor,74954.57217,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M36,Aegir_M36_B9,IJMCNGDJ_130.region001,RiPP,redox-cofactor,102860.2644,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M37,Aegir_M37_B12,GGOKCDCL_209.region001,RiPP,redox-cofactor,245330.2163,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,Methyloprofundus sp900128525
+M38,Aegir_M38_B22,HBKOMCGO_20.region001,RiPP,redox-cofactor,2129.514042,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M38,Aegir_M38_B21,NIMPLCKH_54.region001,RiPP,redox-cofactor,4246.97044,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B23,CIBCBEEE_22.region001,RiPP,redox-cofactor,17560.44728,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B149,EDJGDHEF_25.region001,RiPP,redox-cofactor,3638.639178,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B191,EEGHMLPD_89.region001,RiPP,redox-cofactor,58363.67402,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,Methyloprofundus sp900128525
+M39,Aegir_M39_B146,OICIJIOO_28.region001,RiPP,redox-cofactor,1943.570669,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M25,Aegir_M25_B40,EJKDLJJF_58.region001,Other,resorcinol,80800.7374,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M36,Aegir_M36_B17,PFPLAJGA_35.region001,Other,resorcinol,6927.42085,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M39,Aegir_M39_B53,DHNEMAIL_61.region001,Other,resorcinol,9966.663424,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M33,Barite_M33_B82,OKJDKIPL_74.region001,Other,resorcinol,4036.977029,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Cryomorphaceae,Cryomorpha,0
+M33,Barite_M33_B68,OLFOFOJF_101.region001,Other,resorcinol,1610.326755,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M24,Aegir_M24_B68,BPKPMAHG_91.region001,RiPP,RiPP-like,18616.77646,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M24,Aegir_M24_B122,FDEIFABP_79.region001,RiPP,RiPP-like,16798.7735,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M24,Aegir_M24_B58,GNKANFNI_62.region001,RiPP,RiPP-like,235367.0396,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M24,Aegir_M24_B13,HMPFCKPD_12.region001,RiPP,RiPP-like,14961.09554,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,0,0
+M25,Aegir_M25_B196,DNAEBAJA_236.region001,RiPP,RiPP-like,144663.4885,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M25,Aegir_M25_B63,ECEBLJCB_19.region001,RiPP,RiPP-like,61938.93198,Archaea,Thermoproteota,Thermoprotei_A,Sulfolobales,Pyrodictiaceae,Pyrolobus,0
+M25,Aegir_M25_B131,LMAEHAIC_44.region001,RiPP,RiPP-like,29674.90402,Bacteria,Aquificota,Aquificae,Hydrogenothermales,Hydrogenothermaceae,Hydrogenothermus,0
+M25,Aegir_M25_B121,MGAKDEPC_75.region001,RiPP,RiPP-like,66088.56039,Bacteria,Desulfobacterota,Dissulfuribacteria,Dissulfuribacterales,S140-46,S140-46,0
+M36,Aegir_M36_B48,IGGOJNFL_34.region001,RiPP,RiPP-like,216131.3289,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurospirillaceae,Sulfurospirillum_A,0
+M36,Aegir_M36_B57,IIFEMMGK_13.region001,RiPP,RiPP-like,123767.2458,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M36,Aegir_M36_B1,KLDNEJDF_28.region001,RiPP,RiPP-like,13094.95741,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Cycloclasticaceae,Cycloclasticus,0
+M36,Aegir_M36_B20,MGLIJNGM_128.region001,RiPP,RiPP-like,68544.65564,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M36,Aegir_M36_B17,PFPLAJGA_84.region001,RiPP,RiPP-like,40493.92369,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M37,Aegir_M37_B5,EBBODCAE_74.region001,RiPP,RiPP-like,102886.3225,Bacteria,UBA3054,UBA3054,UBA3054,B51-G9,0,0
+M37,Aegir_M37_B46,FJIODLBK_30.region001,RiPP,RiPP-like,71890.64559,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Profundibacter,0
+M37,Aegir_M37_B56,LAJLOBNE_247.region001,RiPP,RiPP-like,71884.02704,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfosalsimonadaceae,SURF-3,0
+M38,Aegir_M38_B4,CCEEDJDB_27.region001,RiPP,RiPP-like,21140.8002,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,G60ANME1,0
+M38,Aegir_M38_B77,IEOKNLIK_35.region001,RiPP,RiPP-like,20534.4675,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B47,IIPPKAGC_14.region001,RiPP,RiPP-like,27110.68078,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B1,KIECNAKK_93.region001,RiPP,RiPP-like,23998.9419,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B84,LMKJOADE_40.region001,RiPP,RiPP-like,214103.5667,Bacteria,Pseudomonadota,Gammaproteobacteria,0,0,0,0
+M38,Aegir_M38_B38,LMPFGBPF_136.region001,RiPP,RiPP-like,24551.74053,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M38,Aegir_M38_B38,LMPFGBPF_9.region001,RiPP,RiPP-like,10129.45693,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M38,Aegir_M38_B50,ONIMNOCE_75.region001,RiPP,RiPP-like,4531.011276,Bacteria,Pseudomonadota,Gammaproteobacteria,GCA-001735895,GCA-001735895,0,0
+M39,Aegir_M39_B99,AAIIPECO_2.region001,RiPP,RiPP-like,2754.988126,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,Desulfosarcinaceae,0,0
+M39,Aegir_M39_B93,AMDMEECB_147.region001,RiPP,RiPP-like,12115.65433,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M39,Aegir_M39_B45,BHJKMAJD_66.region001,RiPP,RiPP-like,14806.33561,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,G60ANME1,0
+M39,Aegir_M39_B196,BKLBJKCE_217.region001,RiPP,RiPP-like,1738.773608,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAABRJ01,0,0
+M39,Aegir_M39_B23,CIBCBEEE_109.region001,RiPP,RiPP-like,11701.00458,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B53,DHNEMAIL_207.region001,RiPP,RiPP-like,3716.214669,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M39,Aegir_M39_B53,DHNEMAIL_273.region001,RiPP,RiPP-like,24634.12169,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M39,Aegir_M39_B51,DKEELOGD_85.region001,RiPP,RiPP-like,1762.779176,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,0,0
+M39,Aegir_M39_B149,EDJGDHEF_101.region001,RiPP,RiPP-like,5698.195825,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B191,EEGHMLPD_38.region001,RiPP,RiPP-like,61214.711,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,Methyloprofundus sp900128525
+M39,Aegir_M39_B108,ELMMPHKD_43.region001,RiPP,RiPP-like,4322.317594,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M39,Aegir_M39_B111,EOABJBEP_130.region001,RiPP,RiPP-like,5651.489302,Bacteria,Pseudomonadota,Gammaproteobacteria,CAJXQU01,CAJXQU01,CAJXQU01,0
+M39,Aegir_M39_B147,FKCHBHNE_67.region001,RiPP,RiPP-like,2049.588867,Archaea,Thermoplasmatota,E2,DHVEG-1,DHVEG-1,B44-G15,0
+M39,Aegir_M39_B153,FNBCAEOK_924.region001,RiPP,RiPP-like,3243.093579,Bacteria,Bdellovibrionota,Oligoflexia,Oligoflexales,0,0,0
+M39,Aegir_M39_B127,GNEJKKOJ_15.region001,RiPP,RiPP-like,1761.428157,Bacteria,Pseudomonadota,Gammaproteobacteria,GCA-001735895,GCA-001735895,JACNJF01,0
+M39,Aegir_M39_B67,HCGIIHJE_19.region001,RiPP,RiPP-like,1982.028636,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M39,Aegir_M39_B192,HEEDOPCH_161.region001,RiPP,RiPP-like,3032.021525,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B192,HEEDOPCH_64.region001,RiPP,RiPP-like,3428.551441,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B136,IGJLCKIK_8.region002,RiPP,RiPP-like,1907.10408,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,F082,UBA4459,0
+M39,Aegir_M39_B40,JEICAJEH_18.region001,RiPP,RiPP-like,5284.284471,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales_A,GCA-002770795,DRNA01,0
+M39,Aegir_M39_B40,JEICAJEH_66.region001,RiPP,RiPP-like,13247.13229,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales_A,GCA-002770795,DRNA01,0
+M39,Aegir_M39_B186,JNBGNNLM_229.region001,RiPP,RiPP-like,1906.049654,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B186,JNBGNNLM_315.region001,RiPP,RiPP-like,3817.023592,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B84,KCHELPBI_228.region001,RiPP,RiPP-like,12693.74093,Bacteria,Desulfobacterota,Desulfofervidia,Desulfofervidales,Desulfofervidaceae,Desulfofervidus,0
+M39,Aegir_M39_B98,KEGBFKGK_47.region001,RiPP,RiPP-like,7054.724027,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAFDDL01,0,0
+M39,Aegir_M39_B199,KEIMIPLH_50.region001,RiPP,RiPP-like,4170.252187,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,0,0
+M39,Aegir_M39_B182,LIPJKAHJ_36.region001,RiPP,RiPP-like,7617.880802,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Profundibacter,Profundibacter amoris
+M39,Aegir_M39_B43,LPCKDOMF_14.region001,RiPP,RiPP-like,3557.697084,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M39,Aegir_M39_B8,MAHBBFHA_230.region001,RiPP,RiPP-like,4470.380559,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurospirillaceae,Sulfurospirillum_A,0
+M39,Aegir_M39_B39,NPMBOLIF_4.region001,RiPP,RiPP-like,2131.538628,Bacteria,Myxococcota_A,UBA9160,UBA9160,UBA4427,UBA4427,0
+M39,Aegir_M39_B71,OEDHKPFD_120.region001,RiPP,RiPP-like,2442.949196,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,QPIN01 sp021647585
+M39,Aegir_M39_B146,OICIJIOO_39.region001,RiPP,RiPP-like,7624.198616,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B180,PILMEDLM_25.region001,RiPP,RiPP-like,1763.229976,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,B111-G9,0
+M39,Aegir_M39_B180,PILMEDLM_80.region001,RiPP,RiPP-like,1758.283819,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,B111-G9,0
+M33,Barite_M33_B87,BAIALBNB_73.region001,RiPP,RiPP-like,1554.259801,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,SZUA-36,SZUA-36,0
+M33,Barite_M33_B61,CAOEPHBC_22.region001,RiPP,RiPP-like,1356.550856,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M33,Barite_M33_B30,COHBHEGN_43.region001,RiPP,RiPP-like,4662.324276,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Urechidicola,0
+M33,Barite_M33_B14,DBOFCDMG_77.region001,RiPP,RiPP-like,4426.421296,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M33,Barite_M33_B67,DLFDEKGP_30.region001,RiPP,RiPP-like,1655.248716,Bacteria,Pseudomonadota,Alphaproteobacteria,UBA1280,UBA2136,0,0
+M33,Barite_M33_B96,EGMJLMEO_151.region001,RiPP,RiPP-like,4517.474082,Bacteria,Pseudomonadota,Alphaproteobacteria,UBA1280,UBA2136,0,0
+M33,Barite_M33_B89,EMEEGMFL_223.region001,RiPP,RiPP-like,1470.024689,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B107,EMINPHIH_29.region001,RiPP,RiPP-like,1355.857737,Bacteria,Pseudomonadota,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,GCA-002733105,0
+M33,Barite_M33_B97,FAPGKHBG_6.region001,RiPP,RiPP-like,4172.936024,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B69,FHIEFOOH_4.region001,RiPP,RiPP-like,1362.820971,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M33,Barite_M33_B99,HIDEMPIF_53.region001,RiPP,RiPP-like,2049.142523,Bacteria,Pseudomonadota,Gammaproteobacteria,Chromatiales,Sedimenticolaceae,0,0
+M33,Barite_M33_B23,JICMBPMM_115.region001,RiPP,RiPP-like,375909.8381,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M33,Barite_M33_B23,JICMBPMM_6.region001,RiPP,RiPP-like,19073.34005,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M33,Barite_M33_B10,JLLMDFFJ_140.region001,RiPP,RiPP-like,6366.188485,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Azotimanducaceae_A,JAHRVQ01,0
+M33,Barite_M33_B38,JMMHIICP_3.region001,RiPP,RiPP-like,2457.45291,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Kangiellaceae,GCA-002733465,0
+M33,Barite_M33_B106,LFCNJEPG_12.region002,RiPP,RiPP-like,1356.204208,Bacteria,Pseudomonadota,Gammaproteobacteria,QNFE01,0,0,0
+M33,Barite_M33_B106,LFCNJEPG_1.region001,RiPP,RiPP-like,1730.070347,Bacteria,Pseudomonadota,Gammaproteobacteria,QNFE01,0,0,0
+M33,Barite_M33_B106,LFCNJEPG_4.region001,RiPP,RiPP-like,2930.309635,Bacteria,Pseudomonadota,Gammaproteobacteria,QNFE01,0,0,0
+M33,Barite_M33_B58,LMIOODIL_312.region001,RiPP,RiPP-like,2230.261577,Bacteria,Myxococcota,Bradymonadia,UBA4248,0,0,0
+M33,Barite_M33_B6,LPIDFHMF_71.region001,RiPP,RiPP-like,2757.983267,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M33,Barite_M33_B45,MEICBBJD_174.region001,RiPP,RiPP-like,14083.88978,Bacteria,Pseudomonadota,Gammaproteobacteria,GCA-001735895,GCA-001735895,0,0
+M33,Barite_M33_B45,MEICBBJD_38.region001,RiPP,RiPP-like,3450.018939,Bacteria,Pseudomonadota,Gammaproteobacteria,GCA-001735895,GCA-001735895,0,0
+M33,Barite_M33_B32,MFEMIGBH_88.region001,RiPP,RiPP-like,2622.173485,Bacteria,Pseudomonadota,Gammaproteobacteria,GCA-001735895,GCA-001735895,0,0
+M33,Barite_M33_B72,MLFEBKFB_353.region001,RiPP,RiPP-like,20356.06742,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,SMXR01,CAKZLM01,0
+M33,Barite_M33_B101,MNIOLPGK_192.region001,RiPP,RiPP-like,9530.229889,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,S010-17,0
+M33,Barite_M33_B20,NGKECJEJ_235.region001,RiPP,RiPP-like,5854.154757,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Kordiimonadaceae,Kordiimonas,0
+M25,Aegir_M25_B215,DBLJEKIA_312.region001,RiPP,RRE-containing,42065.00129,Bacteria,Chloroflexota,Anaerolineae,Promineifilales,Promineifilaceae,JAJRTP01,0
+M36,Aegir_M36_B53,IDFHELPL_36.region001,RiPP,RRE-containing,7028.877726,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M36,Aegir_M36_B57,IIFEMMGK_195.region001,RiPP,RRE-containing,49389.67824,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M36,Aegir_M36_B62,NDIICOJF_21.region001,RiPP,RRE-containing,7039.291392,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,UBA12170,UBA12170,0
+M38,Aegir_M38_B98,BFAFEAIL_8.region001,RiPP,RRE-containing,5059.305846,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M38,Aegir_M38_B8,EBIDJMJL_43.region001,RiPP,RRE-containing,2785.86939,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M38,Aegir_M38_B19,ECPBKFON_167.region001,RiPP,RRE-containing,3439.4,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,AB-137-C09,0
+M38,Aegir_M38_B44,FIGLHJNH_83.region001,RiPP,RRE-containing,4670.051549,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B105,GECPGONF_22.region001,RiPP,RRE-containing,2330.189684,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M38,Aegir_M38_B92,HJJGMEJB_51.region001,RiPP,RRE-containing,3450.954254,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurimonadaceae,Sulfurimonas,0
+M38,Aegir_M38_B87,ICAEBNNE_140.region001,RiPP,RRE-containing,3125.879249,Bacteria,UBP6,JAFGXH01,JAFGXH01,JAFGXH01,0,0
+M38,Aegir_M38_B13,JGAODFDO_11.region001,RiPP,RRE-containing,2329.845015,Bacteria,Pseudomonadota,Gammaproteobacteria,Chromatiales,Sedimenticolaceae,0,0
+M38,Aegir_M38_B91,KMNIKALC_87.region001,RiPP,RRE-containing,5296.930456,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,GCA-2401635,0
+M39,Aegir_M39_B93,AMDMEECB_4.region001,RiPP,RRE-containing,76456.59966,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M39,Aegir_M39_B17,CBJJPFKK_32.region001,RiPP,RRE-containing,1022.110533,Bacteria,Aquificota,Aquificae,Hydrogenothermales,Hydrogenothermaceae,Persephonella,0
+M39,Aegir_M39_B160,ENHKGPJA_29.region001,RiPP,RRE-containing,5005.917436,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,LS-SOB,JAAELZ01,0
+M39,Aegir_M39_B74,EPGHDDAG_38.region001,RiPP,RRE-containing,1503.339694,Bacteria,WOR-3,Hydrothermia,0,0,0,0
+M39,Aegir_M39_B195,GJNOLOFI_271.region001,RiPP,RRE-containing,5959.219489,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,Desulfacyla,0
+M39,Aegir_M39_B100,HPDNPIEA_4.region001,RiPP,RRE-containing,5229.288547,Bacteria,Myxococcota,B64-G9,B64-G9,B64-G9,0,0
+M39,Aegir_M39_B109,ICBCKKKK_16.region001,RiPP,RRE-containing,1433.930735,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,JAADJA01,JAADJA01,0
+M39,Aegir_M39_B121,JGGEIKLM_42.region001,RiPP,RRE-containing,1021.656171,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,GCA-002733185,0
+M39,Aegir_M39_B98,KEGBFKGK_93.region001,RiPP,RRE-containing,2028.881888,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAFDDL01,0,0
+M39,Aegir_M39_B199,KEIMIPLH_314.region001,RiPP,RRE-containing,3036.472526,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,0,0
+M39,Aegir_M39_B144,LEDLLEGN_43.region001,RiPP,RRE-containing,7858.087509,Bacteria,Pseudomonadota,Gammaproteobacteria,Chromatiales,Sedimenticolaceae,Thiolapillus,0
+M39,Aegir_M39_B159,LKLMGDAM_249.region001,RiPP,RRE-containing,6354.669999,Bacteria,Planctomycetota,SZUA-567,JAFGGJ01,JAFGGJ01,0,0
+M39,Aegir_M39_B137,MGGLONMC_113.region001,RiPP,RRE-containing,4937.506916,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lutimonas,0
+M39,Aegir_M39_B194,MHOBFLEE_173.region001,RiPP,RRE-containing,5257.867526,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,UBA11574,0,0
+M39,Aegir_M39_B88,OGCDBPDJ_176.region001,RiPP,RRE-containing,1672.281579,Bacteria,Acidobacteriota,Polarisedimenticolia,J045,J045,0,0
+M39,Aegir_M39_B3,OHFHPIDA_75.region001,RiPP,RRE-containing,1513.238046,Bacteria,Chloroflexota,Anaerolineae,Promineofilales,Promineofilaceae,S016-13,0
+M39,Aegir_M39_B63,PMCGENNM_89.region001,RiPP,RRE-containing,1120.501129,Bacteria,Bacteroidota,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,GCA-2746605,0
+M33,Barite_M33_B14,DBOFCDMG_58.region001,RiPP,RRE-containing,4614.579481,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,0
+M33,Barite_M33_B13,DOFEOPKJ_456.region001,RiPP,RRE-containing,2172.146985,Bacteria,Pseudomonadota,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thiosymbion,0
+M33,Barite_M33_B97,FAPGKHBG_279.region001,RiPP,RRE-containing,6039.005273,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
+M33,Barite_M33_B69,FHIEFOOH_223.region001,RiPP,RRE-containing,4042.101397,Bacteria,Pseudomonadota,Gammaproteobacteria,Arenicellales,Arenicellaceae,Arenicella,Arenicella sp016763815
+M33,Barite_M33_B36,KPIBPLGM_289.region001,RiPP,RRE-containing,1984.276845,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M24,Aegir_M24_B72,AMCEHCFD_117.region001,Polyketide,T1PKS,8656.114933,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Crocinitomix,0
+M24,Aegir_M24_B51,CLBBIEOL_167.region001,Polyketide,T1PKS,2757.458108,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,0,0
+M24,Aegir_M24_B61,JFGKALPH_198.region001,Polyketide,T1PKS,24110.58567,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Bernardetiaceae,0,0
+M24,Aegir_M24_B27,MGMOCMNP_146.region001,Polyketide,T1PKS,11517.71537,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Bernardetiaceae,0,0
+M24,Aegir_M24_B27,MGMOCMNP_205.region001,Polyketide,T1PKS,42320.47863,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Bernardetiaceae,0,0
+M24,Aegir_M24_B62,OOCMFLME_19.region001,Polyketide,T1PKS,7320.143737,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M25,Aegir_M25_B239,IEDIOMHP_46.region001,Polyketide,T1PKS,13955.34347,Bacteria,Myxococcota,UBA796,UBA796,UBA2385,J125,0
+M38,Aegir_M38_B21,NIMPLCKH_142.region001,Polyketide,T1PKS,12280.12386,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B196,BKLBJKCE_20.region001,Polyketide,T1PKS,2360.969164,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAABRJ01,0,0
+M39,Aegir_M39_B150,GLJOBBPH_377.region001,Polyketide,T1PKS,3991.210969,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,Thiomargarita,0
+M39,Aegir_M39_B102,HHBKGBCH_84.region001,Polyketide,T1PKS,1608.683376,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicella,0
+M39,Aegir_M39_B73,HLAJGKCK_405.region001,Polyketide,T1PKS,1927.721421,Bacteria,Myxococcota,UBA796,UBA796,GCA-2862545,JACKEQ01,0
+M39,Aegir_M39_B98,KEGBFKGK_79.region001,Polyketide,T1PKS,865.0238728,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAFDDL01,0,0
+M39,Aegir_M39_B119,MHCCPFAL_41.region001,Polyketide,T1PKS,2714.138676,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B39,NPMBOLIF_68.region001,Polyketide,T1PKS,685.8239671,Bacteria,Myxococcota_A,UBA9160,UBA9160,UBA4427,UBA4427,0
+M39,Aegir_M39_B71,OEDHKPFD_155.region001,Polyketide,T1PKS,2105.287618,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,QPIN01 sp021647585
+M33,Barite_M33_B36,KPIBPLGM_265.region001,Polyketide,T1PKS,806.0465449,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,UBA3077,0
+M25,Aegir_M25_B87,DKBJNFLL_178.region001,Polyketide,T3PKS,13274.45451,Bacteria,Myxococcota,Polyangia,Polyangiales,SG8-38,JALVDI01,0
+M38,Aegir_M38_B64,NAOKMLNH_87.region001,Polyketide,T3PKS,4330.851123,Bacteria,Bdellovibrionota,Oligoflexia,Oligoflexales,0,0,0
+M39,Aegir_M39_B25,IAPKAMMO_177.region001,Polyketide,T3PKS,1714.915296,Bacteria,Planctomycetota,JADGBV01,JADGBV01,JADGBV01,0,0
+M39,Aegir_M39_B15,JKANDIBI_16.region001,Polyketide,T3PKS,895.1595121,Bacteria,KSB1,UBA2214,UBA2214,Zgenome-0027,JAJRST01,0
+M39,Aegir_M39_B155,KKPGHLON_124.region001,Polyketide,T3PKS,1848.476394,Bacteria,Planctomycetota,UBA1135,UBA2386,GCA-002748355,JAJRTL01,0
+M24,Aegir_M24_B122,FDEIFABP_48.region001,Terpene,Terpene generic,10866.86853,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M24,Aegir_M24_B58,GNKANFNI_21.region001,Terpene,Terpene generic,49633.17017,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M24,Aegir_M24_B58,GNKANFNI_74.region001,Terpene,Terpene generic,70946.364,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M24,Aegir_M24_B13,HMPFCKPD_81.region001,Terpene,Terpene generic,5854.557926,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,0,0
+M24,Aegir_M24_B130,KOFGBFOK_5.region001,Terpene,Terpene generic,4406.442337,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,JALSJK01,0
+M24,Aegir_M24_B75,NCJJNLBN_60.region001,Terpene,Terpene generic,14098.17033,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M25,Aegir_M25_B191,DOFINDKD_24.region001,Terpene,Terpene generic,32207.00399,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M25,Aegir_M25_B17,EFPKCKDP_32.region001,Terpene,Terpene generic,42230.72027,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,JALVZP01,0,0
+M36,Aegir_M36_B40,MACFFGIF_25.region001,Terpene,Terpene generic,7451.830374,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M36,Aegir_M36_B41,ONIHFDBF_122.region001,Terpene,Terpene generic,6384.708238,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,Methyloprofundus sp900128525
+M38,Aegir_M38_B26,BHAGBGDA_124.region001,Terpene,Terpene generic,2711.690382,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M38,Aegir_M38_B72,JLHIKFCN_50.region001,Terpene,Terpene generic,74461.21849,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M38,Aegir_M38_B91,KMNIKALC_28.region001,Terpene,Terpene generic,43957.13172,Bacteria,Pseudomonadota,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,GCA-2401635,0
+M38,Aegir_M38_B84,LMKJOADE_26.region001,Terpene,Terpene generic,56694.72165,Bacteria,Pseudomonadota,Gammaproteobacteria,0,0,0,0
+M38,Aegir_M38_B21,NIMPLCKH_23.region001,Terpene,Terpene generic,4761.099909,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B178,AIAADNBJ_43.region001,Terpene,Terpene generic,945.8343247,Bacteria,Planctomycetota,UBA1135,UBA1135,GCA-002686595,RBC036,0
+M39,Aegir_M39_B110,BFEMGKGJ_104.region001,Terpene,Terpene generic,1242.607885,Bacteria,Myxococcota,Polyangia,Haliangiales,Haliangiaceae,NORP324,0
+M39,Aegir_M39_B23,CIBCBEEE_122.region001,Terpene,Terpene generic,7659.489297,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B51,DKEELOGD_73.region001,Terpene,Terpene generic,9052.276082,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,0,0
+M39,Aegir_M39_B149,EDJGDHEF_16.region001,Terpene,Terpene generic,5759.279089,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methylomarinum,0
+M39,Aegir_M39_B120,EEAGJODL_140.region001,Terpene,Terpene generic,1345.942923,Bacteria,Myxococcota,Bradymonadia,Bradymonadales,Bradymonadaceae,0,0
+M39,Aegir_M39_B191,EEGHMLPD_256.region001,Terpene,Terpene generic,43159.31724,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,Methyloprofundus sp900128525
+M39,Aegir_M39_B111,EOABJBEP_350.region001,Terpene,Terpene generic,2521.878913,Bacteria,Pseudomonadota,Gammaproteobacteria,CAJXQU01,CAJXQU01,CAJXQU01,0
+M39,Aegir_M39_B170,FJOFPHMJ_17.region001,Terpene,Terpene generic,1896.959909,Bacteria,Bacteroidota,Kapabacteria,Kapabacteriales,UBA2268,0,0
+M39,Aegir_M39_B123,GAPCFIGP_97.region001,Terpene,Terpene generic,1658.870065,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,B46-G9,0
+M39,Aegir_M39_B150,GLJOBBPH_145.region001,Terpene,Terpene generic,1313.465256,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,Thiomargarita,0
+M39,Aegir_M39_B150,GLJOBBPH_160.region001,Terpene,Terpene generic,1840.417372,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,Thiomargarita,0
+M39,Aegir_M39_B192,HEEDOPCH_110.region001,Terpene,Terpene generic,8792.273253,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B102,HHBKGBCH_70.region001,Terpene,Terpene generic,1030.204744,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicella,0
+M39,Aegir_M39_B112,ICNECMED_135.region001,Terpene,Terpene generic,4143.519801,Bacteria,Calditrichota,Calditrichia,Calditrichales,Calditrichaceae,JANTFQ01,0
+M39,Aegir_M39_B60,IGDGJELM_46.region001,Terpene,Terpene generic,984.5987646,Bacteria,Myxococcota,B64-G9,B64-G9,B64-G9,0,0
+M39,Aegir_M39_B60,IGDGJELM_46.region002,Terpene,Terpene generic,943.9351456,Bacteria,Myxococcota,B64-G9,B64-G9,B64-G9,0,0
+M39,Aegir_M39_B44,IPKLMCOG_23.region001,Terpene,Terpene generic,2619.611303,Bacteria,Bipolaricaulota,Bipolaricaulia,Bipolaricaulales,Bipolaricaulaceae,UBA3574,0
+M39,Aegir_M39_B188,JCKFNMMM_332.region001,Terpene,Terpene generic,1292.616601,Bacteria,Myxococcota,JAADFL01,JAADFL01,JAADFL01,0,0
+M39,Aegir_M39_B40,JEICAJEH_25.region001,Terpene,Terpene generic,3281.85702,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales_A,GCA-002770795,DRNA01,0
+M39,Aegir_M39_B92,JHHPGEIM_237.region001,Terpene,Terpene generic,2153.284494,Bacteria,Desulfobacterota_F,DSWW01,DSWW01,DSWW01,S015-6,0
+M39,Aegir_M39_B186,JNBGNNLM_104.region001,Terpene,Terpene generic,2212.95077,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,QPIN01,0
+M39,Aegir_M39_B98,KEGBFKGK_100.region001,Terpene,Terpene generic,2784.846967,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAFDDL01,0,0
+M39,Aegir_M39_B98,KEGBFKGK_61.region001,Terpene,Terpene generic,985.0207556,Bacteria,Desulfobacterota,Desulfobacteria,Desulfobacterales,JAFDDL01,0,0
+M39,Aegir_M39_B134,LCJGCDAJ_79.region001,Terpene,Terpene generic,4941.340384,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylothermaceae,Methylohalobius,0
+M39,Aegir_M39_B182,LIPJKAHJ_11.region001,Terpene,Terpene generic,1449.709199,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Profundibacter,Profundibacter amoris
+M39,Aegir_M39_B39,NPMBOLIF_29.region001,Terpene,Terpene generic,900.224174,Bacteria,Myxococcota_A,UBA9160,UBA9160,UBA4427,UBA4427,0
+M39,Aegir_M39_B146,OICIJIOO_58.region001,Terpene,Terpene generic,11377.01682,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,0,0
+M39,Aegir_M39_B164,PNPOMJDI_2.region001,Terpene,Terpene generic,985.8658237,Bacteria,Myxococcota,Polyangia,Haliangiales,Haliangiaceae,NORP324,0
+M33,Barite_M33_B62,AGFGDEPP_25.region001,Terpene,Terpene generic,763.7838147,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Emcibacteraceae,Paremcibacter,0
+M33,Barite_M33_B113,BMEKDGJI_104.region001,Terpene,Terpene generic,886.5165591,Bacteria,Pseudomonadota,Gammaproteobacteria,Beggiatoales,Beggiatoaceae,0,0
+M33,Barite_M33_B95,FMFMJIIM_50.region001,Terpene,Terpene generic,7415.853471,Bacteria,Pseudomonadota,Alphaproteobacteria,Micavibrionales,Micavibrionaceae,UBA1850,0
+M33,Barite_M33_B23,JICMBPMM_48.region001,Terpene,Terpene generic,9152.234567,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,WTBX01,0
+M33,Barite_M33_B8,KFCJGCLI_112.region001,Terpene,Terpene generic,1046.731799,Bacteria,Pseudomonadota,Alphaproteobacteria,Micavibrionales,Micavibrionaceae,UBA1850,0
+M33,Barite_M33_B58,LMIOODIL_241.region001,Terpene,Terpene generic,1444.02661,Bacteria,Myxococcota,Bradymonadia,UBA4248,0,0,0
+M33,Barite_M33_B72,MLFEBKFB_177.region001,Terpene,Terpene generic,1079.007685,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,SMXR01,CAKZLM01,0
+M33,Barite_M33_B35,MMHLBHKL_130.region001,Terpene,Terpene generic,1162.177913,Bacteria,Pseudomonadota,Gammaproteobacteria,Methylococcales,Methylomonadaceae,Methyloprofundus,0
+M33,Barite_M33_B20,NGKECJEJ_179.region001,Terpene,Terpene generic,3729.349797,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Kordiimonadaceae,Kordiimonas,0
+M33,Barite_M33_B73,NNFODOML_37.region001,Terpene,Terpene generic,763.7838147,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhizobiales,OSC116,OCS116,0
+M33,Barite_M33_B5,OOHDNELP_286.region001,Terpene,Terpene generic,8893.225136,Bacteria,Nitrospirota,Nitrospiria,Nitrospirales,UBA8639,UBA8639,0
+M33,Barite_M33_B21,PKDJBPAN_8.region001,Terpene,Terpene generic,753.3754803,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Roseivirga,0
+M24,Aegir_M24_B73,CBMKINBK_66.region001,Hybrid,thioamide:arylpolyene,1661.089894,Bacteria,Pseudomonadota,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,HyVt-477,0
+M38,Aegir_M38_B90,NBPCDCCG_10.region001,RiPP,thioamitides,6319.480655,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,JANPRD01,0
+M25,Aegir_M25_B144,BIHIBKCH_38.region001,RiPP,thiopeptide,10379.12906,Bacteria,Pseudomonadota,Gammaproteobacteria,Thiotrichales,Thiotrichaceae,Cocleimonas,0
+M38,Aegir_M38_B79,CGJFFKOE_1.region001,RiPP,thiopeptide,9651.973342,Bacteria,Desulfobacterota,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfobacterium,0
+M38,Aegir_M38_B66,EMLCJMHO_35.region001,RiPP,thiopeptide,4416.873076,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,0,0
+M38,Aegir_M38_B87,ICAEBNNE_5.region001,RiPP,thiopeptide,2957.991649,Bacteria,UBP6,JAFGXH01,JAFGXH01,JAFGXH01,0,0
+M39,Aegir_M39_B69,EGDKBMJK_202.region001,RiPP,thiopeptide,1508.492623,Bacteria,Planctomycetota,UBA1135,UBA1135,GCA-002686595,GCA-2862085,0
+M39,Aegir_M39_B126,NGIDNPEH_13.region001,RiPP,thiopeptide,2364.117363,Bacteria,Desulfobacterota,DSM-4660,Desulfatiglandales,Desulfatiglandaceae,JAGGTJ01,0
+M33,Barite_M33_B89,EMEEGMFL_399.region001,Polyketide,transAT-PKS-like,3714.847737,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_487.region001,Polyketide,transAT-PKS-like,5599.380131,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B89,EMEEGMFL_726.region001,Polyketide,transAT-PKS-like,3637.614211,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,JABSOG01,0
+M33,Barite_M33_B97,FAPGKHBG_224.region001,Polyketide,transAT-PKS-like,21335.79551,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Marinicellaceae,NORP309,0
