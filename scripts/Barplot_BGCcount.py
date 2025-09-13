@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data 
-summary_df = pd.read_csv("MAG_phylum.csv")  
-bgc_df = pd.read_csv("MAG_BGC.csv")        
+summary_df = pd.read_csv("MAG_summary.csv")  
+bgc_df = pd.read_csv("BGC_class.csv")        
 
 # Merge tables on MAG/genome_ID
 merged_df = bgc_df.merge(summary_df, left_on="MAG", right_on="MAG")
