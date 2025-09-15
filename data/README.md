@@ -21,9 +21,6 @@ Supplementary Figures
 * Figures S3A, S3B
     * Data: BGC_abundance.csv
     * Scripts: stripplot_RiPP.py, stripplot_other.py
-* Figure S3
-    * Data: transcript_abundance.csv
-    * Script: stripplot_transcript.py (or confirm if this belongs here)
 * Figure S6A
     * Data: BGC_abundance.csv
     * Script: box_plots_gene.py
