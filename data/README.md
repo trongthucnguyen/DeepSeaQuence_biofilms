@@ -32,7 +32,7 @@ Supplementary Figures
     * Script: box_plots_transcript.py
 
 Notes
-  All data files are in .csv format.
-  Scripts are written in Python (.py).
-  Each script generates the corresponding figure when run with its associated data file(s).
+* All data files are in .csv format.
+* Scripts are written in Python (.py).
+* Each script generates the corresponding figure when run with its associated data file(s).
 
