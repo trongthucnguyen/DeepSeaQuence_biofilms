@@ -13,7 +13,7 @@ To use this modified script, you must first install the official BiG-MAP pipelin
 
 You must also have Minimap2 installed and accessible in your $PATH.
 
-How to Use This Modified Script
+### How to Use This Modified Script
 
 Install BiG-MAP from the official repository.
 
