@@ -2,7 +2,7 @@ This repository contains the processed data tables used to generate figures in t
 
 Main Figures
 * Figure 2
-    * Data: MAG_phylum.csv
+    * Data: MAG_phyla.csv
     * Script: Barplot_MAG_phylum.py
 * Figures 5A, 6A
     * Data: MAG_summary.csv, BGC_class.csv
