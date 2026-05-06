@@ -13,6 +13,9 @@ Main Figures
 * Figure 7
     * Data: BGC_expression.csv
     * Script: heatmap_BGC_product.py
+* Figure 8B
+    * Data: upset_table.csv
+    * Script: upset.py
 
 Supplementary Figures
 * Figures S1, S2
